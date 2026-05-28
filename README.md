@@ -5,7 +5,6 @@ A simple Python project that calculates Body Mass Index (BMI) using user weight 
 ## Features
 - Calculate BMI instantly
 - Shows BMI category
-- Beginner-friendly project
 
 ## Technologies Used
 - Python
